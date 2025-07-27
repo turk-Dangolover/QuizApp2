@@ -1,0 +1,125 @@
+[
+  {
+    "text": "Was ist die Hauptstadt von Frankreich?",
+    "answers": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Rom"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "text": "Welche der folgenden sind Programmiersprachen?",
+    "answers": [
+      "Python",
+      "HTML",
+      "Java",
+      "HTTP"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "text": "Welches ist das flächenmäßig größte Land der Welt?",
+    "answers": [
+      "China",
+      "USA",
+      "Kanada",
+      "Russland"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "text": "Welches Element hat das chemische Symbol O?",
+    "answers": [
+      "Gold",
+      "Sauerstoff",
+      "Silber",
+      "Wasserstoff"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "text": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "text": "Wer hat 'Faust' geschrieben?",
+    "answers": [
+      "Johann Wolfgang von Goethe",
+      "Friedrich Schiller",
+      "Heinrich Heine",
+      "Thomas Mann"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "text": "Welches Tier ist das Wappentier Deutschlands?",
+    "answers": [
+      "Löwe",
+      "Bundesadler",
+      "Bär",
+      "Eichhörnchen"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "text": "Was ist 2 + 2?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "22"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "text": "Welche Farben sind Primärfarben im RGB-Farbsystem?",
+    "answers": [
+      "Rot",
+      "Grün",
+      "Blau",
+      "Gelb"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "text": "Was ist die chemische Formel von Wasser?",
+    "answers": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "correct": [
+      0
+    ]
+  }
+]

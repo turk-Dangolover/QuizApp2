@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Was ist die Hauptstadt von X?"
+            android:textSize="18sp"/>
+
+        <CheckBox
+            android:id="@+id/checkOption1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option A"/>
+
+        <CheckBox
+            android:id="@+id/checkOption2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option B"/>
+
+        <CheckBox
+            android:id="@+id/checkOption3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option C"/>
+
+        <CheckBox
+            android:id="@+id/checkOption4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Option D"/>
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nächste Frage"/>
+
+    </LinearLayout>
+</ScrollView>
